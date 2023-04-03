@@ -10,9 +10,25 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+    
 }
 
 img {
   display: block;
   max-width: 100%;
 }
+
+button {
+  padding: 10px 15px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.wrap {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 30px;
+}
+
+
