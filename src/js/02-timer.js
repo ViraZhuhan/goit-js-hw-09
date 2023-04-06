@@ -41,7 +41,6 @@ refs.stopBtn.addEventListener('click', onStopTimerClick);
 
 function onStartTimerClick() {
   options.onClose;
-  
   timer.start();
 }
 
